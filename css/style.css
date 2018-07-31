@@ -32,12 +32,14 @@ a {
    color: #9fbfc6;
    font-weight: bold;
 }
+
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link {
   font-weight:normal !important;
 }
 
-h4 {
-  color: #a0be83;
+.sh-label {
+  color: #406618;
+  padding-left: 12px;
 }
 
 h3 {
@@ -48,7 +50,14 @@ h3 {
 }
 
 h6 {
-  padding: 3px;
+  padding-left: 12px;
+  padding-right: 2px;
+  font-weight: 300 !important;
+  color: #666666;
+}
+
+.small {
+  padding-bottom: 0px;
 }
 
 p {
@@ -70,6 +79,11 @@ p {
 
 img {
   max-width: 100px;
+}
+
+.card-img-top {
+  align-self: center;
+  max-width: 250px;
 }
 
 .h-100 {
