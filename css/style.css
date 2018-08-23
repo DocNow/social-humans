@@ -39,12 +39,12 @@ a {
 
 .sh-label {
   color: #007236;
-  padding-left: 15px;
+  padding-left: 18px;
 }
 
 .sh-a-label {
   color: #0054a5;
-  padding-left: 15px;
+  padding-left: 18px;
 }
 
 h3 {
@@ -55,9 +55,9 @@ h3 {
 }
 
 h6 {
-  padding-left: 15px;
+  padding-left: 18px;
   padding-right: 2px;
-  font-weight: 300 !important;
+  font-weight: 200 !important;
   color: #666666;
 }
 
