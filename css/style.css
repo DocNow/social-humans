@@ -57,7 +57,7 @@ h3 {
 h6 {
   padding-left: 18px;
   padding-right: 2px;
-  font-weight: 200 !important;
+  font-weight: 100 !important;
   color: #666666;
 }
 
@@ -65,7 +65,11 @@ p {
   font-family: 'Open Sans', sans-serif;
   padding: 3px;
 }
-
+.description {
+  padding-left: 18px;
+  padding-right: 8px;
+  font-size: 10pt;
+}
 .btn-primary {
 	color: #fff;
 	background-color: #9fbfc6;
