@@ -27,6 +27,9 @@ body {
   font-weight: bold;
   padding-left: 15px;
 }
+.nav-item a:hover {
+   color: #55acee !important;
+}
 /*
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link {
   color: #ffffff;
