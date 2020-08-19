@@ -5,7 +5,6 @@
  */
 
 body {
-  padding-top: 50px;
   font-family: 'Helvetica Neue', sans-serif;
 }
 
@@ -31,7 +30,6 @@ body {
    color: #55acee !important;
 }
 
-
 /* colors from logo
  #ff958d - peach
  #a0be83 - green
@@ -42,6 +40,7 @@ body {
 a {
    color: #55acee;
 }
+
 a:hover {
   color: black;
 }
@@ -105,10 +104,6 @@ p {
 }
 
 @media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
-}
 
 img {
   max-width: 100px;
