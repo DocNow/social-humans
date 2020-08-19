@@ -125,8 +125,7 @@ img {
   border: none;
 }
 .card-img-top {
-  align-self: center;
-  max-width: 250px;
+  max-width: 255px;
 }
 
 .h-100 {
@@ -151,4 +150,24 @@ footer {
    left: 0;
    bottom: 0;
    width: 100%;
+ }
+ .example {
+   background-color: #eee;
+ }
+ .example img {
+   padding-top: 5px;
+   padding-left: 5px;
+   padding-right: 5px;
+ }
+ .example a {
+   color: #000;
+   text-decoration: underline;
+   padding-left: 5px;
+ }
+ .twitter-tweet {
+   padding: 5px;
+ }
+
+ .detail .card-img-top {
+   max-width: 300px;
  }
