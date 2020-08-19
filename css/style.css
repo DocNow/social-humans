@@ -175,3 +175,9 @@ footer {
    padding-bottom: 10px;
    width: 100px;
  }
+ blockquote p {
+   background-color: white;
+   border-radius: 5px;
+   padding: 3px;
+   border: 1px solid #ccc;
+ }
