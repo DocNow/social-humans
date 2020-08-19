@@ -115,7 +115,10 @@ img {
 .card-img-top {
   max-width: 255px;
 }
-
+.card a:hover {
+  opacity: .8;
+  text-decoration: none;
+}
 .h-100 {
   width: 270px;
 }
